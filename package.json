@@ -1,0 +1,13 @@
+{
+  "name": "pac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "pactester.exe -p ./proxy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
